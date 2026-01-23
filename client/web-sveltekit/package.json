@@ -67,7 +67,7 @@
     "@sourcegraph/wildcard": "workspace:*",
     "@sourcegraph/client-api": "workspace:*",
     "highlight.js": "^10.0.0",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.17.23",
     "prismjs": "^1.29.0",
     "ts-key-enum": "^2.0.12"
   },
